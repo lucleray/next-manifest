@@ -1,0 +1,1 @@
+export default () => <h5>About us</h5>

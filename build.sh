@@ -1,6 +1,5 @@
 #!/bin/sh
 
-rm -rf .next
 rm artifacts/*
 mkdir -p artifacts
 

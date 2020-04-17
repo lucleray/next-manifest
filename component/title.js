@@ -1,1 +1,1 @@
-export default () => <h1>My Website</h1>
+export default () => <h1>My Website 2</h1>
